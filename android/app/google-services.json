@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350030107994",
+    "firebase_url": "https://mytechblock.firebaseio.com",
+    "project_id": "mytechblock",
+    "storage_bucket": "mytechblock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350030107994:android:8acb3ebe3d65fe20",
+        "android_client_info": {
+          "package_name": "com.personal_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350030107994-gd1mmqs78rmktvm4qceo038dsc53q1mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.personal_dairy",
+            "certificate_hash": "b7c69fc21f35ac995b62698f0fb62bfb1b6ddbc2"
+          }
+        },
+        {
+          "client_id": "350030107994-hac0ik7sq403oehidtuk2an9t1juarvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4YrUKZuFDLjkFT4lhoH-AOmeWdpmWRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350030107994-hac0ik7sq403oehidtuk2an9t1juarvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
